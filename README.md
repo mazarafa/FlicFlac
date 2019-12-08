@@ -13,3 +13,5 @@ Cria a pasta ainda viu
 
 - Se liga nisso doido
     sudo apt  install gccgo-go 
+
+- go run hello.go (chama a função para compilar)
