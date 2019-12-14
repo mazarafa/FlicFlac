@@ -4,10 +4,13 @@ import (
 	"fmt"
 )
 
-func soma(a, b int) int {
-    return a + b
-}
 
 func main() {
-    fmt.Println(soma(1, 1))
+	var x int = 2
+	var y int = 3
+	var total int =  x + y
+
+	fmt.Println(total)
+	
 }
+

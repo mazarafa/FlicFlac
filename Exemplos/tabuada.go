@@ -1,27 +1,22 @@
 package main
 
 import (
-	"fmt"
+    "fmt"
 )
 
-func tabuada(numeros ...int) (total int) {
-	//soma = 0
-	//x = 10
-	for _, numero := range numeros {
-		//soma = divide * x
-		fmt.Println(divide)
-		fmt.Println(numeros * total)
-	}
-	
-	// O total da soma
-	//fmt.Println(soma)
-	
-	return
-}
-
 func main() {
-	tabuada(2,10)
-	// variadic_soma(1, 1)
-	// variadic_soma(1, 4, 5, 6)
-}
+    var x int 
+    var total int
+    
+    fmt.Print("Informe o numero:")
+    fmt.Scanf("%d\n", &x)
+    fmt.Print("\n")
 
+    fmt.Println("=== tabuada ===")
+    for i:=0; i < 10; i++{
+        total = x*i
+        
+        fmt.Println(x, "x", i,"=", total)
+    }
+    
+}
