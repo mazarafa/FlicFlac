@@ -29,3 +29,7 @@ youtube: https://www.youtube.com/watch?v=A50he0wLV9U
 - Para compilar, basta chamar essa função
 
          go run hello.go (chama a função para compilar)
+         
+ - Grupo de estudo sobre Go (Golang)
+    
+        https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!forum/golang-nuts
