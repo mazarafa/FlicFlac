@@ -7,6 +7,10 @@
     <img src="https://img.shields.io/travis/ccuffs/template?style=for-the-badge" title="Status do build">
 </p>
 
+
+Estudo iniciado 2019/12, so bora hehe
+
+
 Instalação do Go, no site
 http://www.golangbr.org/doc/instalacao
 
@@ -16,9 +20,12 @@ youtube: https://www.youtube.com/watch?v=A50he0wLV9U
 
 
 
-Cria a pasta ainda viu
 
-- Se liga nisso doido
-    sudo apt  install gccgo-go 
 
-- go run hello.go (chama a função para compilar)
+- Para usar todas versões do Go, passe esse comando
+
+             sudo apt  install gccgo-go 
+
+- Para compilar, basta chamar essa função
+
+         go run hello.go (chama a função para compilar)
