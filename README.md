@@ -8,6 +8,8 @@
 </p>
 
 
+Estudo iniciado 2019/12, so bora hehe
+
 
 Instalação do Go, no site
 http://www.golangbr.org/doc/instalacao
