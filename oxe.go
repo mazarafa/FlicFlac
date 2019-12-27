@@ -10,10 +10,8 @@ func main() {
 
 	fmt.Print("Informe o numero:")
 	fmt.Scanf("%d\n", &x)
-
 	fmt.Print("Informe o numero:")
-	fmt.Scanf("%d\n", &y)
-	
+    fmt.Scanf("%d\n", &y)
 	var primo bool
 
 	for i := x; i < y+1; i++ {
