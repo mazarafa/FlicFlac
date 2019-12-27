@@ -10,16 +10,10 @@ func main() {
 
 	fmt.Print("Informe o numero:")
 	fmt.Scanf("%d\n", &x)
-<<<<<<< HEAD
-
-	fmt.Print("Informe o numero:")
-	fmt.Scanf("%d\n", &y)
-=======
 	
 	fmt.Print("Informe o numero:")
-    	fmt.Scanf("%d\n", &y)
+    fmt.Scanf("%d\n", &y)
 	
->>>>>>> 85be239e22799d25d37dd943d2bc580f7ddb05b7
 	
 	var primo bool
 
