@@ -30,6 +30,10 @@ youtube: https://www.youtube.com/watch?v=A50he0wLV9U
 
          go run hello.go (chama a função para compilar)
          
+- Compilador online do Go
+
+          https://play.golang.org/?fbclid=IwAR1fGuKKZfRjmeuyHGVAltyvcKhe6ei1gUNK5l0MwRlNdryDLpTzqorTAEk
+         
  - Grupo de estudo sobre Go (Golang), link logo abaixo.
     
         https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!forum/golang-nuts
